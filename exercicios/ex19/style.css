@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/*
+em html e id= em css E#(pode so um)
+
+em html é class = em css e .( pode varios)]
+*/
+body {
+    background-color: #420100;
+}
+h1.principal{
+    text-align: center;
+    background-color: #700200;
+    color: white;
+    border-radius: 20px;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.644);
+}
+.html{
+    background-color: #700200;
+    border-radius: 10px;
+    color: white;
+}
+.css{
+    background-color: #700200;
+    border-radius: 10px;
+    color: white;
+
+}
+.intermediario{
+    color: yellow;
+}
+.avançado{
+    color: red;
+}
+.basico{
+    color: green;
+}
